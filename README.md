@@ -11,10 +11,10 @@ This is a simple project using the implementation of creating a token on the Eth
    - Visit [Remix IDE](https://remix.ethereum.org/).
 
 2. **Create a New File**:
-   - Click on the "+" button in the file explorer and create a new file named `MyToken.sol`.
+   - Click on the "+" button in the file explorer and create a new file named `EthToken.sol`.
 
 3. **Paste the Smart Contract Code**:
-   - Copy the code provided in this repository and paste it into the `MyToken.sol` file.
+   - Copy the code provided in this repository and paste it into the `EthToken.sol` file.
    - run the code
 4. **Compile the Smart Contract**:
    - Go to the "Solidity Compiler" tab in Remix.
